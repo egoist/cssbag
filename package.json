@@ -1,6 +1,6 @@
 {
   "name": "cssbag",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Handy Postcss plugins in one bag.",
   "license": "MIT",
   "repository": "egoist/cssbag",
